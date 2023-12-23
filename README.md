@@ -1,5 +1,5 @@
 # About me
-
+<p>Hey! 👋 I'm Otajon Bozorboyev (otajonbozorboyev).</p>
 - Telegram:                           [asqarabdullayev](https://t.me/asqarabdullayev)
 
 ## Main tools
